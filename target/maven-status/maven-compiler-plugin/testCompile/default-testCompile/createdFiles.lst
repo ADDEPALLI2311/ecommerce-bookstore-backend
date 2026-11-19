@@ -1,0 +1,9 @@
+com\bookstore\cart\controller\CartControllerTest.class
+com\bookstore\order\controller\OrderControllerTest.class
+com\bookstore\book\controller\BookControllerTest.class
+com\bookstore\EcommerceBookstoreApplicationTests.class
+com\bookstore\cart\service\CartServiceTest.class
+com\bookstore\customer\controller\CustomerControllerTest.class
+com\bookstore\order\service\OrderServiceTest.class
+com\bookstore\book\service\BookServiceTest.class
+com\bookstore\customer\service\CustomerServiceTest.class
